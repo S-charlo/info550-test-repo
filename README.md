@@ -6,6 +6,12 @@ Sofia Charlot
 
 Here is text for my first commit in my first repo.
 
+Adding text for another commit
+
+Text for yet another commit
+
+**Here is come text on the test branch**
+
 # My second commit
 
 Here’s more text for my second commit
