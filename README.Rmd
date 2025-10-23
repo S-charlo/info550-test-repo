@@ -14,6 +14,8 @@ Text for yet another commit
 
 __Here is come text on the test branch__
 
+__Here is some more text on the test branch__ 
+
 # My second commit 
 
 Here's more text for my second commit
