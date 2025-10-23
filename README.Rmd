@@ -10,7 +10,7 @@ Here is text for my first commit in my first repo.
 
 # My second commit 
 
-Here's more text
+Here's more text for my second commit
 
 # My third commit
 
